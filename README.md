@@ -23,6 +23,9 @@ The goal is to build repeatable deployment patterns for networking, servers, end
 ## Current Platform
 
 - AMD Ryzen 9 9950X virtualization host
+- 96GB DDR5-6000 memory
+- 2TB SK hynix P41 NVMe for host and primary VM storage
+- 4TB NVMe thin-provisioned VM storage
 - Proxmox VE
 - Windows Server 2025
 - Windows 11 client VMs
