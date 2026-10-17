@@ -28,10 +28,10 @@ The goal is to build repeatable deployment patterns for networking, servers, end
 - 4TB NVMe thin-provisioned VM storage
 - Proxmox VE
 - Windows Server 2025
-- Windows 11 client VMs
+- Windows 11 Pro client VMs
 - Ubuntu services
 - 10GbE network connectivity
-- NAS-backed storage and backup
+- 10GbE NAS-backed storage and backup
 - NVIDIA RTX 5060 Ti 16GB for local AI workloads
 
 ## Planned Documentation
