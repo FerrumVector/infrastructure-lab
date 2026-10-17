@@ -22,14 +22,14 @@ The goal is to build repeatable deployment patterns for networking, servers, end
 
 ## Current Platform
 
-- AMD Ryzen 9 based virtualization host
+- AMD Ryzen 9 9950X virtualization host
 - Proxmox VE
 - Windows Server 2025
 - Windows 11 client VMs
 - Ubuntu services
 - 10GbE network connectivity
 - NAS-backed storage and backup
-- NVIDIA GPU for local AI workloads
+- NVIDIA RTX 5060 Ti 16GB for local AI workloads
 
 ## Planned Documentation
 
