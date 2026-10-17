@@ -34,6 +34,12 @@ The goal is to build repeatable deployment patterns for networking, servers, end
 - 10GbE NAS-backed storage and backup
 - NVIDIA RTX 5060 Ti 16GB for local AI workloads
 
+## Network Topology
+
+The following diagram shows the current FerrumVector infrastructure lab, including internet connectivity, core networking, virtualization, storage, client systems, and planned network segmentation.
+
+![FerrumVector Homelab Network Topology](docs/images/ferrumvector-homelab-network-topology.jpg)
+
 ## Planned Documentation
 
 - Network architecture
